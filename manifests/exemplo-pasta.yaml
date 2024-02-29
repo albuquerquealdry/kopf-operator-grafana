@@ -1,0 +1,7 @@
+apiVersion: madripoor.operator/v1
+kind: PagmonDirectory
+metadata:
+  name: pasta-teste3
+spec:
+  directory: "pasta-teste3"
+  uuid: "pasta-teste3"

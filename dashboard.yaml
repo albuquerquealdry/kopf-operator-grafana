@@ -1,0 +1,11 @@
+apiVersion: madripoor.operator/v1
+kind: PagmonDashboard
+metadata:
+  name: dash-do-pedrao
+spec:
+  name: "dash-do-pedrao"
+  server: "192.168.0.1"
+  directory: "pasta-pedrao"
+  uuid: "appxpto-nova-pasta"
+  team: "madripoor"
+  labels: "dashpedrao"

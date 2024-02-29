@@ -1,0 +1,7 @@
+apiVersion: madripoor.operator/v1
+kind: PagmonDirectory
+metadata:
+  name: pedrao
+spec:
+  directory: "pasta-pedrao"
+  uuid: "pasta-pedrao"

@@ -1,0 +1,7 @@
+apiVersion: madripoor.operator/v1
+kind: PagmonDirectory
+metadata:
+  name: backcharge
+spec:
+  directory: "backcharge"
+  uuid: "backcharge"
